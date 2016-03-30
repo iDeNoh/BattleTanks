@@ -1,8 +1,8 @@
 # BattleTanks
 Open world head to head tank fight game with simple AI, terrain, and advanced control system in Unreal 4
 
-# General Concept
-***
+General Concept
+---------------
 The game is a simple 1v1 large area battle, you will have to use a variety of ammo types and items to either destroy or disable an enemy tank.
 
 
